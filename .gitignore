@@ -1,0 +1,9 @@
+dist
+node_modules
+*-lock.*
+*.lock
+*.log
+
+/*.d.ts
+.DS_Store
+Thumbs.db
